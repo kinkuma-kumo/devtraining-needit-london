@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 58872 Needit Needit" max_length="40" name="u_imp_tmpl_x_58872_needit_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="アサイン先" max_length="40" name="u_アサイン先" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ステータス" max_length="40" name="u_ステータス" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="優先度" max_length="40" name="u_優先度" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="番号" max_length="40" name="u_番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="簡単な説明" max_length="40" name="u_簡単な説明" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Jyunishi" max_length="40" name="x_58872_needit_jyunishi" type="collection">
+        <element attributes="import_attribute_name=Animal,edge_encryption_enabled=true" label="Animal" max_length="40" name="u_animal" type="string"/>
+        <element attributes="import_attribute_name=Colour,edge_encryption_enabled=true" label="Colour" max_length="40" name="u_colour" type="string"/>
+        <element attributes="import_attribute_name=Size,edge_encryption_enabled=true" label="Size" max_length="40" name="u_size" type="string"/>
+    </element>
+</database>
